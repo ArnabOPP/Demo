@@ -1,1 +1,2 @@
-placeholder
+
+hi = "Hello, World!"
